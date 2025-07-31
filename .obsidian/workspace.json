@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "0e2f78ac671ab52c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b002852b625f674a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cd16c40efbe4c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/算法笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "算法笔记"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3310eccb39d035f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "002fc6ce1d633c8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e8755632060dc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "513ca530be09f906",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0d5dca88d2c811e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "770d55e1445ca65a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211
+  },
+  "right": {
+    "id": "31217aea8e2f5235",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae47421fd5024790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6315734bd18f9d7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "73f1c54ceaa103c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研/数学小点.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "数学小点 的大纲"
+            }
+          },
+          {
+            "id": "06883f0b2d699c06",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "filled-pin",
+              "title": "Day Planner Timeline"
+            }
+          },
+          {
+            "id": "7b76bbfc44797358",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "317100dd7d49b7c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研/英语阅读复盘.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "英语阅读复盘 的出链列表"
+            }
+          },
+          {
+            "id": "9d904405ecd0b660",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c2855bc585ccffe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研/英语阅读复盘.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "英语阅读复盘 的反向链接列表"
+            }
+          },
+          {
+            "id": "44ff9481090600eb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "14d29d0277435fdf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-tts:Text to Speech": false,
+      "remotely-save:Remotely Save": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "8cd16c40efbe4c35",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20250731.md",
+    "图片/Pasted image 20250730223750.png",
+    "考研/数学小点.md",
+    "考研/机器学习.md",
+    "考研/数学复盘.md",
+    "Day Planners/Day Planner-20250730.md",
+    "考研/英语阅读复盘.md",
+    "考研/概率论.md",
+    "Day planner/Day planner.md",
+    "Day Planners/Day Planner-20250729.md",
+    "图片/Pasted image 20250728221813.png",
+    "图片/Pasted image 20250728221801.png",
+    "图片/Pasted image 20250728221747.png",
+    "图片/Pasted image 20250728221730.png",
+    "考研/机器学习ppt.md",
+    "考研/算法笔记.md",
+    "Day Planners/Day Planner-20250728.md",
+    "考研/contribution.md",
+    "未命名.md",
+    "README.md",
+    "时间管理.md",
+    "技术栈、.md",
+    "基础阶段.md",
+    "北航ai.md",
+    "以前的/学习/深度学习/炮哥带你学/深度学习入门.md",
+    "以前的/学习/深度学习/动手学深度学习/动手学习深度学习.md",
+    "以前的/学习/计算机图形学/games101/first class.md",
+    "以前的/学习/深度学习/动手学深度学习/书籍pdf.md",
+    "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
+    "以前的/学习/数学建模/笔记复盘/第四节 拟合算法.md",
+    "以前的/学习/数学建模/笔记复盘/第二讲 TOPSIS法.md",
+    "以前的/学习/数学建模/笔记复盘/第三讲 差值算法.md",
+    "以前的/学习/数学建模/正课pdf/数模新版视频课程第4讲：拟合.pdf",
+    "以前的/学习/数学建模/正课pdf/数模新版视频课程第3讲：插值算法.pdf",
+    "以前的/学习/数学建模/正课pdf/数模新版视频课程第4讲：拟合 1.pdf",
+    "以前的/学习/数学建模/图片/`NKF_)(T1]9H@1)YB3N3U[0.png",
+    "以前的/学习/数学建模/图片/W0}DH@4`1~RLESFINT~A41F.png",
+    "以前的/学习/数学建模/图片/VJ2947Z6~8TXKJXB9CQ]H$W.png",
+    "以前的/学习/数学建模/图片/O(WCM{6}2MSPMY`O0J{`{BY.png",
+    "以前的/学习/数学建模/图片/O8$V9IU{_NVEPN_C9`V[W7X.png",
+    "以前的/学习/深度学习/炮哥带你学",
+    "以前的/学习/深度学习/动手学深度学习",
+    "以前的/学习/计算机图形学/games101",
+    "以前的/学习/数学建模/笔记复盘",
+    "以前的/学习/数学建模/正课pdf",
+    "以前的/学习/数学建模/图片",
+    "以前的/学习/hadoop指南/Hadoop权威指南 第3版 修订版 (Tom Wbite著) (Z-Library).pdf",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "考研信息/未命名.canvas"
+  ]
+}

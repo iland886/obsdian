@@ -1,0 +1,29 @@
+{
+  "customFolder": "Day Planners",
+  "debug": false,
+  "mode": "File",
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "日记/2025-03-08.md",
+      "date": "Sat Mar 08 2025"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 3,
+  "timelineIcon": "filled-pin",
+  "plannerLabel": "Day Planner",
+  "breakLabel": "BREAK",
+  "endLabel": "END",
+  "markCurrent": true,
+  "correctLabels": true,
+  "preserveValues": "-",
+  "lineColor": "#cad5ca",
+  "timelineColorBegin": "#008183",
+  "timelineColorEnd": "#4d194d",
+  "timelineHoverColorBegin": "#c81f75",
+  "timelineHoverColorEnd": "#5d0e2e"
+}

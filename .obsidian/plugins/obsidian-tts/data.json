@@ -1,0 +1,26 @@
+{
+  "defaultVoice": "speechSynthesis-",
+  "pitch": 1,
+  "rate": 1,
+  "volume": 1,
+  "speakLinks": true,
+  "speakFrontmatter": true,
+  "speakSyntax": true,
+  "speakTitle": true,
+  "speakCodeblocks": true,
+  "speakEmoji": true,
+  "speakComments": true,
+  "languageVoices": [
+    {
+      "id": "speechSynthesis-Microsoft Yaoyao - Chinese (Simplified, PRC)",
+      "language": "en",
+      "voice": "Microsoft Yaoyao - Chinese (Simplified, PRC)"
+    }
+  ],
+  "stopPlaybackWhenNoteChanges": false,
+  "services": {
+    "openai": {
+      "key": ""
+    }
+  }
+}

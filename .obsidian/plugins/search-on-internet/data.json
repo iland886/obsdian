@@ -1,0 +1,35 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://www.deepl.com/translator",
+      "name": "deeple",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://en.wikipedia.org/wiki/Special:Search/{{query}}",
+      "name": "Wikipedia",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.bilibili.com/",
+      "name": "b站",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://weread.qq.com/web/\n",
+      "name": "微信读书",
+      "encode": true
+    },
+    {
+      "name": "谷歌",
+      "query": "https://www.google.com/webhp?hl=zh-CN&sa=X&ved=0ahUKEwj9mevy55v-AhVE3WEKHcnAAAAQPAgI",
+      "tags": [],
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}
