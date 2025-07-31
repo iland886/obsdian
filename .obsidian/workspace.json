@@ -11,15 +11,14 @@
             "id": "8cd16c40efbe4c35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "以前的/学习/git仓库/git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "时间管理.md",
+                "bFile": "时间管理.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "git"
+              "icon": "diff",
+              "title": "Diff: 时间管理"
             }
           }
         ]
@@ -221,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,6 +243,8 @@
   },
   "active": "8cd16c40efbe4c35",
   "lastOpenFiles": [
+    "时间管理.md",
+    "以前的/学习/git仓库/git.md",
     "考研/算法笔记.md",
     "Day Planners/Day Planner-20250731.md",
     "图片/Pasted image 20250730223750.png",
@@ -265,7 +265,6 @@
     "考研/contribution.md",
     "未命名.md",
     "README.md",
-    "时间管理.md",
     "技术栈、.md",
     "基础阶段.md",
     "北航ai.md",
@@ -276,7 +275,6 @@
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
     "以前的/学习/数学建模/笔记复盘/第四节 拟合算法.md",
     "以前的/学习/数学建模/笔记复盘/第二讲 TOPSIS法.md",
-    "以前的/学习/数学建模/笔记复盘/第三讲 差值算法.md",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第4讲：拟合.pdf",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第3讲：插值算法.pdf",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第4讲：拟合 1.pdf",

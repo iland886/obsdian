@@ -74,7 +74,7 @@ x表示该区域的内容会被清除
   **将本地仓库上传到远程仓库**
   将my-repo上传到github中的first_repo中![[Pasted image 20240620092426.png]]
   `git remote add origin 远程仓库地址`上传到远程仓库，一次只能操作一个远程仓库，使用第二次命令会报错，只需用`git remote rm origin`删除远程分支
-  使用`git pushh -u origin main:master` ![[Pasted image 20240620104937.png]]
+  使用`git push -u origin main:master` ![[Pasted image 20240620104937.png]]
   这是上传到远程仓库的master分支下
   在远程仓库修改上传到本地仓库用`git pull`![[Pasted image 20240620105412.png]]
   
