@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b002852b625f674a",
+        "id": "8257e7cbecf5425f",
         "type": "tabs",
         "children": [
           {
-            "id": "8cd16c40efbe4c35",
+            "id": "89bb5710b9275523",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "时间管理.md",
-                "bFile": "时间管理.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 时间管理"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -241,7 +237,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8cd16c40efbe4c35",
+  "active": "14d29d0277435fdf",
   "lastOpenFiles": [
     "时间管理.md",
     "以前的/学习/git仓库/git.md",
