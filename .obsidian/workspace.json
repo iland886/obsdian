@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8257e7cbecf5425f",
+        "id": "ef405067a5163801",
         "type": "tabs",
         "children": [
           {
-            "id": "89bb5710b9275523",
+            "id": "f49d900912966327",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "考研/机器学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "机器学习"
             }
           }
         ]
@@ -237,19 +242,24 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "14d29d0277435fdf",
+  "active": "f49d900912966327",
   "lastOpenFiles": [
+    "考研/数学复盘.md",
+    "考研/数学题型.md",
+    "考研/机器学习.md",
+    "考研/算法笔记.md",
+    "图片/Pasted image 20250801100508.png",
+    "考研/概率论.md",
+    "考研/英语阅读复盘.md",
+    "Day Planners/Day Planner-20250801.md",
+    "基础阶段.md",
+    "技术栈、.md",
     "时间管理.md",
     "以前的/学习/git仓库/git.md",
-    "考研/算法笔记.md",
     "Day Planners/Day Planner-20250731.md",
     "图片/Pasted image 20250730223750.png",
     "考研/数学小点.md",
-    "考研/机器学习.md",
-    "考研/数学复盘.md",
     "Day Planners/Day Planner-20250730.md",
-    "考研/英语阅读复盘.md",
-    "考研/概率论.md",
     "Day planner/Day planner.md",
     "Day Planners/Day Planner-20250729.md",
     "图片/Pasted image 20250728221813.png",
@@ -261,16 +271,11 @@
     "考研/contribution.md",
     "未命名.md",
     "README.md",
-    "技术栈、.md",
-    "基础阶段.md",
     "北航ai.md",
     "以前的/学习/深度学习/炮哥带你学/深度学习入门.md",
     "以前的/学习/深度学习/动手学深度学习/动手学习深度学习.md",
     "以前的/学习/计算机图形学/games101/first class.md",
-    "以前的/学习/深度学习/动手学深度学习/书籍pdf.md",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
-    "以前的/学习/数学建模/笔记复盘/第四节 拟合算法.md",
-    "以前的/学习/数学建模/笔记复盘/第二讲 TOPSIS法.md",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第4讲：拟合.pdf",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第3讲：插值算法.pdf",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第4讲：拟合 1.pdf",
@@ -278,7 +283,6 @@
     "以前的/学习/数学建模/图片/W0}DH@4`1~RLESFINT~A41F.png",
     "以前的/学习/数学建模/图片/VJ2947Z6~8TXKJXB9CQ]H$W.png",
     "以前的/学习/数学建模/图片/O(WCM{6}2MSPMY`O0J{`{BY.png",
-    "以前的/学习/数学建模/图片/O8$V9IU{_NVEPN_C9`V[W7X.png",
     "以前的/学习/深度学习/炮哥带你学",
     "以前的/学习/深度学习/动手学深度学习",
     "以前的/学习/计算机图形学/games101",
