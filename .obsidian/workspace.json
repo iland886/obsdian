@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/机器学习.md",
+                "file": "考研/算法笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "机器学习"
+              "title": "算法笔记"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 211,
+    "collapsed": true
   },
   "right": {
     "id": "31217aea8e2f5235",
@@ -221,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 220
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,13 +245,15 @@
   },
   "active": "f49d900912966327",
   "lastOpenFiles": [
+    "图片/Pasted image 20250802225509.png",
+    "考研/英语阅读复盘.md",
+    "考研/机器学习.md",
+    "Day Planners/Day Planner-20250802.md",
     "考研/数学复盘.md",
     "考研/数学题型.md",
-    "考研/机器学习.md",
     "考研/算法笔记.md",
     "图片/Pasted image 20250801100508.png",
     "考研/概率论.md",
-    "考研/英语阅读复盘.md",
     "Day Planners/Day Planner-20250801.md",
     "基础阶段.md",
     "技术栈、.md",
@@ -274,7 +277,6 @@
     "北航ai.md",
     "以前的/学习/深度学习/炮哥带你学/深度学习入门.md",
     "以前的/学习/深度学习/动手学深度学习/动手学习深度学习.md",
-    "以前的/学习/计算机图形学/games101/first class.md",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第4讲：拟合.pdf",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第3讲：插值算法.pdf",
