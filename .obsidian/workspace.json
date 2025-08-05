@@ -13,16 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/英语阅读复盘.md",
+                "file": "考研/机器学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "英语阅读复盘"
+              "title": "机器学习"
+            }
+          },
+          {
+            "id": "c566bc8c7ce54cbc",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "考研/算法笔记.md",
+                "bFile": "考研/算法笔记.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 算法笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +217,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "smart-connections",
+              "title": "Smart Connections"
             }
           },
           {
@@ -214,6 +229,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "f55f77358b4863a5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -242,10 +267,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f49d900912966327",
+  "active": "c566bc8c7ce54cbc",
   "lastOpenFiles": [
-    "考研/contribution.md",
     "考研/算法笔记.md",
+    "图片/fd901a79bb743da68e9d3356f027646e 1.png",
+    "图片/fd901a79bb743da68e9d3356f027646e.png",
+    "考研/机器学习.md",
+    "考研/英语阅读复盘.md",
+    "Day Planners/Day Planner-20250805.md",
+    "考研/contribution.md",
     "图片/Pasted image 20250804231254.png",
     "图片/Pasted image 20250804214548.png",
     "图片/Pasted image 20250804214503.png",
@@ -258,8 +288,6 @@
     "Day Planners/Day Planner-20250803.md",
     "README.md",
     "图片/Pasted image 20250802225509.png",
-    "考研/英语阅读复盘.md",
-    "考研/机器学习.md",
     "Day Planners/Day Planner-20250802.md",
     "考研/数学复盘.md",
     "考研/数学题型.md",
@@ -271,15 +299,12 @@
     "时间管理.md",
     "以前的/学习/git仓库/git.md",
     "Day Planners/Day Planner-20250731.md",
-    "图片/Pasted image 20250730223750.png",
     "考研/数学小点.md",
     "Day Planners/Day Planner-20250730.md",
     "Day planner/Day planner.md",
     "Day Planners/Day Planner-20250729.md",
-    "图片/Pasted image 20250728221813.png",
     "考研/机器学习ppt.md",
     "Day Planners/Day Planner-20250728.md",
-    "未命名.md",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第4讲：拟合.pdf",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第3讲：插值算法.pdf",
