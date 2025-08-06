@@ -26,14 +26,15 @@
             "id": "c566bc8c7ce54cbc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "考研/算法笔记.md",
-                "bFile": "考研/算法笔记.md",
-                "aRef": ""
+                "file": "考研/算法笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: 算法笔记"
+              "icon": "lucide-file",
+              "title": "算法笔记"
             }
           }
         ],
@@ -104,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 211,
+    "collapsed": true
   },
   "right": {
     "id": "31217aea8e2f5235",
@@ -217,8 +219,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -269,6 +271,9 @@
   },
   "active": "c566bc8c7ce54cbc",
   "lastOpenFiles": [
+    "图片/Pasted image 20250806121025.png",
+    "图片/Pasted image 20250806121011.png",
+    "Day Planners/Day Planner-20250806.md",
     "考研/算法笔记.md",
     "图片/fd901a79bb743da68e9d3356f027646e 1.png",
     "图片/fd901a79bb743da68e9d3356f027646e.png",
@@ -291,7 +296,6 @@
     "Day Planners/Day Planner-20250802.md",
     "考研/数学复盘.md",
     "考研/数学题型.md",
-    "图片/Pasted image 20250801100508.png",
     "考研/概率论.md",
     "Day Planners/Day Planner-20250801.md",
     "基础阶段.md",
@@ -304,7 +308,6 @@
     "Day planner/Day planner.md",
     "Day Planners/Day Planner-20250729.md",
     "考研/机器学习ppt.md",
-    "Day Planners/Day Planner-20250728.md",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第4讲：拟合.pdf",
     "以前的/学习/数学建模/正课pdf/数模新版视频课程第3讲：插值算法.pdf",
