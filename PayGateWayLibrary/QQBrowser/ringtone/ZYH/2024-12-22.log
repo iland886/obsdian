@@ -1,0 +1,25 @@
+2024-12-22  12-22 17:47:25.050 26480 26480 E io.rong.push: LoadAppImageStartupCache enabled : 1
+2024-12-22  12-22 17:47:25.058 26480 26480 E io.rong.push: Not starting debugger since process cannot load the jdwp agent.
+2024-12-22  12-22 17:47:25.121 26480 26506 E BehaviorCollectManager: Fail to acquire dataAnalyzerService...
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: Unable to instantiate appComponentFactory
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: java.lang.ClassNotFoundException: Didn't find class "androidx.core.app.CoreComponentFactory" on path: DexPathList[[zip file "/data/app/~~Mo9yyaLwerZuvDOrWHEkYg==/com.zzw.october-4QiqhJa7YgF64kWgN8HGCw==/base.apk"],nativeLibraryDirectories=[/data/app/~~Mo9yyaLwerZuvDOrWHEkYg==/com.zzw.october-4QiqhJa7YgF64kWgN8HGCw==/lib/arm64, /data/app/~~Mo9yyaLwerZuvDOrWHEkYg==/com.zzw.october-4QiqhJa7YgF64kWgN8HGCw==/base.apk!/lib/arm64-v8a, /system/lib64, /system/system_ext/lib64, /hw_product/lib64, /system/product/lib64]]
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:207)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:379)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:312)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.LoadedApk.createAppFactory(LoadedApk.java:274)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.LoadedApk.createOrUpdateClassLoaderLocked(LoadedApk.java:1052)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.LoadedApk.getClassLoader(LoadedApk.java:1105)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.LoadedApk.getResources(LoadedApk.java:1370)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.ContextImpl.createAppContext(ContextImpl.java:2871)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.ContextImpl.createAppContext(ContextImpl.java:2859)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:7820)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.ActivityThread.access$2600(ActivityThread.java:278)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2527)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.os.Handler.dispatchMessage(Handler.java:109)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.os.Looper.loop(Looper.java:228)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at android.app.ActivityThread.main(ActivityThread.java:9105)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at java.lang.reflect.Method.invoke(Native Method)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:614)
+2024-12-22  12-22 17:47:25.232 26480 26480 E LoadedApk: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1129)
+2024-12-22  12-22 17:47:30.053 26480 26805 E DrmHal  : Failed to find any drm factories
+2024-12-22  12-22 17:47:30.055 26480 26805 E FwLog   : [RongLog][ UniqueIdUtils ] fetchUniqueId()

@@ -1,8 +1,8 @@
 {
   "accentColor": "#1ec8c8",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Maple",
   "theme": "moonstone",
-  "baseFontSize": 12,
+  "baseFontSize": 16,
   "textFontFamily": "Adobe 黑体 Std",
   "interfaceFontFamily": "Adobe 黑体 Std",
   "baseFontSizeAction": true
