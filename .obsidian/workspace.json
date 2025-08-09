@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/机器学习.md",
+                "file": "力扣刷题/002-盛最多水的容器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "机器学习"
+              "title": "002-盛最多水的容器"
             }
           }
         ]
@@ -117,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/机器学习.md",
+                "file": "力扣刷题/002-盛最多水的容器.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "机器学习 的大纲"
+              "title": "002-盛最多水的容器 的大纲"
             }
           }
         ],
@@ -247,11 +247,20 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-tts:Text to Speech": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "cf6c5a779b2df5d3",
   "lastOpenFiles": [
+    "图片/Pasted image 20250809230104.png",
+    "力扣刷题/001-最大子数组和.md",
+    "力扣刷题/002-盛最多水的容器.md",
+    "力扣刷题/汇总.md",
+    "考研/算法笔记.md",
+    "考研/机器学习.md",
+    "Day Planners/Day Planner-20250809.md",
     "附件4.docx",
     "python.docx",
     "Pasted image 20250808144146.png",
@@ -264,12 +273,7 @@
     "PayGateWayLibrary/QQBrowser/ringtone/user/vendor/etc5/version",
     "PayGateWayLibrary/QQBrowser/ringtone/user/vendor/etc7/version",
     "PayGateWayLibrary/QQBrowser/ringtone/user/vendor/etc6/version",
-    "PayGateWayLibrary/QQBrowser/ringtone/user/vendor/etc3/version",
-    "考研/算法笔记.md",
-    "力扣刷题/001-最大子数组和.md",
     "以前的/学习/C++/C++.md",
-    "考研/机器学习.md",
-    "力扣刷题/汇总.md",
     "以前的/模板大全/力扣刷题.md",
     "Day Planners/Day Planner-20250808.md",
     "考研/概率论.md",
@@ -296,8 +300,6 @@
     "图片/Pasted image 20250807172204.png",
     "考研/数学题型.md",
     "Day Planners/Day Planner-20250807.md",
-    "Excalidraw/Drawing 2025-08-06 12.25.54.excalidraw.md",
-    "Day Planners/Day Planner-20250806.md",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
