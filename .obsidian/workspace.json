@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "力扣刷题/002-盛最多水的容器.md",
+                "file": "考研/机器学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "002-盛最多水的容器"
+              "title": "机器学习"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "31217aea8e2f5235",
@@ -117,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "力扣刷题/002-盛最多水的容器.md",
+                "file": "考研/机器学习.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002-盛最多水的容器 的大纲"
+              "title": "机器学习 的大纲"
             }
           }
         ],
@@ -254,9 +253,12 @@
   },
   "active": "cf6c5a779b2df5d3",
   "lastOpenFiles": [
+    "力扣刷题/002-盛最多水的容器.md",
+    "Day Planners/Day Planner-20250810.md",
+    "Pasted image 20250809182300.png",
+    "Pasted image 20250809160052.png",
     "图片/Pasted image 20250809230104.png",
     "力扣刷题/001-最大子数组和.md",
-    "力扣刷题/002-盛最多水的容器.md",
     "力扣刷题/汇总.md",
     "考研/算法笔记.md",
     "考研/机器学习.md",
@@ -295,9 +297,6 @@
     "图片/Pasted image 20250807223135.png",
     "图片/Pasted image 20250807222917.png",
     "图片/Pasted image 20250807212256.png",
-    "图片/Pasted image 20250807211253.png",
-    "图片/Pasted image 20250807210517.png",
-    "图片/Pasted image 20250807172204.png",
     "考研/数学题型.md",
     "Day Planners/Day Planner-20250807.md",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
