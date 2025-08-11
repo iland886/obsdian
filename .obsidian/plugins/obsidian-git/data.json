@@ -18,7 +18,7 @@
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": false,
+  "treeStructure": true,
   "refreshSourceControl": true,
   "basePath": "https://github.com/iland886/obsdian",
   "differentIntervalCommitAndPush": false,
