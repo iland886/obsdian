@@ -11,15 +11,14 @@
             "id": "4b027e71307bc8b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "考研/算法笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "考研/机器学习.md",
+                "bFile": "考研/机器学习.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "算法笔记"
+              "icon": "diff",
+              "title": "Diff: 机器学习"
             }
           }
         ]
@@ -117,13 +116,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/算法笔记.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法笔记 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -254,14 +252,16 @@
   },
   "active": "4b027e71307bc8b5",
   "lastOpenFiles": [
+    "考研/算法笔记.md",
+    "Day Planners/Day Planner-20250813.md",
+    "考研/数学题型.md",
+    "考研/机器学习.md",
+    "Day Planners/Day Planner-20250812.md",
     "图片/e3a6381a23f991c6347835e18400da80.png",
     "图片/Pasted image 20250811230037.png",
     "图片/Pasted image 20250811225723.png",
     "图片/Pasted image 20250811225550.png",
-    "考研/机器学习.md",
     "考研/数学复盘.md",
-    "考研/数学题型.md",
-    "考研/算法笔记.md",
     "Pasted image 20250811203703.png",
     "考研/概率论.md",
     "图片/Pasted image 20250808144146.png",
@@ -298,8 +298,6 @@
     "时间管理.md",
     "README.md",
     "未命名.md",
-    "考研/Leetcode刷题.md",
-    "图片/Pasted image 20250807224121.png",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
