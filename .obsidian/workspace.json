@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "机器学习"
             }
+          },
+          {
+            "id": "5e27767b669e77a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "力扣刷题/007-最长连续序列.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "007-最长连续序列"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,8 +102,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -105,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "31217aea8e2f5235",
@@ -132,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/机器学习.md",
+                "file": "力扣刷题/007-最长连续序列.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "机器学习 的大纲"
+              "title": "007-最长连续序列 的大纲"
             }
           }
         ],
@@ -250,6 +266,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "canvas:新建白板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
@@ -267,8 +284,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ecfdaef0b7fbb7a4",
+  "active": "5e27767b669e77a1",
   "lastOpenFiles": [
+    "力扣刷题/汇总.md",
+    "力扣刷题/007-最长连续序列.md",
+    "力扣刷题/005-买卖股票的最佳时机.md",
+    "力扣刷题/006-两数之和.md",
+    "图片/Pasted image 20250821230411.png",
+    "图片/Pasted image 20250821221857.png",
+    "力扣刷题/001-最大子数组和.md",
+    "考研/contribution.md",
+    "考研/算法笔记.md",
+    "Day Planners/Day Planner-20250821.md",
+    "Day Planners/Day Planner-20250820.md",
     "Day Planners/Day Planner-20250819.md",
     "考研/概率论.md",
     "Day Planners/Day Planner-20250818.md",
@@ -280,17 +308,11 @@
     "图片/Pasted image 20250811223929.png",
     "图片/Pasted image 20250817164711.png",
     "图片/Pasted image 20250817164659.png",
-    "图片/Pasted image 20250817164657.png",
-    "图片/Pasted image 20250817164640.png",
-    "考研/算法笔记.md",
     "Day Planners/Day Planner-20250817.md",
     "考研/机器学习.md",
     "Day Planners/Day Planner-20250816.md",
-    "力扣刷题/005-买卖股票的最佳时机.md",
     "考研/数学.md",
-    "考研/contribution.md",
     "力扣刷题/004-无重复字符的最长子串.md",
-    "力扣刷题/汇总.md",
     "Day Planners/Day Planner-20250815.md",
     "力扣刷题/003-最长公共子序列.md",
     "考研/数学题型.md",
@@ -299,11 +321,6 @@
     "Day Planners/Day Planner-20250814.md",
     "力扣刷题/002-盛最多水的容器.md",
     "考研/规划.md",
-    "Day Planners/Day Planner-20250813.md",
-    "Day Planners/Day Planner-20250812.md",
-    "Day Planners/Day Planner-20250810.md",
-    "力扣刷题/001-最大子数组和.md",
-    "Day Planners/Day Planner-20250809.md",
     "附件4.docx",
     "python.docx",
     "PayGateWayLibrary/log",
@@ -314,7 +331,6 @@
     "PayGateWayLibrary/QQBrowser/ringtone/user/vendor/etc5/version",
     "PayGateWayLibrary/QQBrowser/ringtone/user/vendor/etc7/version",
     "PayGateWayLibrary/QQBrowser/ringtone/user/vendor/etc6/version",
-    "以前的/学习/C++/C++.md",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
