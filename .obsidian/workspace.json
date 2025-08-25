@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "力扣刷题/汇总.md",
+                "file": "考研/英语阅读复盘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "汇总"
+              "title": "英语阅读复盘"
             }
           },
           {
@@ -43,17 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "力扣刷题/007-最长连续序列.md",
+                "file": "考研/深度学习-李沐.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "007-最长连续序列"
+              "title": "深度学习-李沐"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "31217aea8e2f5235",
@@ -148,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "力扣刷题/007-最长连续序列.md",
+                "file": "考研/英语阅读复盘.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "007-最长连续序列 的大纲"
+              "title": "英语阅读复盘 的大纲"
             }
           }
         ],
@@ -284,17 +282,26 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5e27767b669e77a1",
+  "active": "062d485e8d46ec64",
   "lastOpenFiles": [
+    "考研/算法笔记.md",
+    "Pasted image 20250825120318.png",
+    "Pasted image 20250823161058.png",
+    "Pasted image 20250816232312.png",
+    "图片/Pasted image 20250825113631.png",
     "力扣刷题/汇总.md",
+    "考研/深度学习-李沐.md",
+    "Day Planners/Day Planner-20250825.md",
+    "图片/Pasted image 20250823100410.png",
+    "图片/Pasted image 20250823091855.png",
     "力扣刷题/007-最长连续序列.md",
+    "Day Planners/Day Planner-20250823.md",
     "力扣刷题/005-买卖股票的最佳时机.md",
     "力扣刷题/006-两数之和.md",
     "图片/Pasted image 20250821230411.png",
     "图片/Pasted image 20250821221857.png",
     "力扣刷题/001-最大子数组和.md",
     "考研/contribution.md",
-    "考研/算法笔记.md",
     "Day Planners/Day Planner-20250821.md",
     "Day Planners/Day Planner-20250820.md",
     "Day Planners/Day Planner-20250819.md",
@@ -302,12 +309,6 @@
     "Day Planners/Day Planner-20250818.md",
     "图片/Pasted image 20250817164819.png",
     "图片/Pasted image 20250817164805.png",
-    "图片/Pasted image 20250817164743.png",
-    "图片/Pasted image 20250817164740.png",
-    "图片/Pasted image 20250817164733.png",
-    "图片/Pasted image 20250811223929.png",
-    "图片/Pasted image 20250817164711.png",
-    "图片/Pasted image 20250817164659.png",
     "Day Planners/Day Planner-20250817.md",
     "考研/机器学习.md",
     "Day Planners/Day Planner-20250816.md",
@@ -318,9 +319,6 @@
     "考研/数学题型.md",
     "考研/数学复盘.md",
     "Day Planners/Day Planner-20250811.md",
-    "Day Planners/Day Planner-20250814.md",
-    "力扣刷题/002-盛最多水的容器.md",
-    "考研/规划.md",
     "附件4.docx",
     "python.docx",
     "PayGateWayLibrary/log",
