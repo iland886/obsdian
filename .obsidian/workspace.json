@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/英语阅读复盘.md",
+                "file": "考研/机器学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "英语阅读复盘"
+              "title": "机器学习"
             }
           },
           {
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "31217aea8e2f5235",
@@ -146,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/英语阅读复盘.md",
+                "file": "考研/机器学习.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "英语阅读复盘 的大纲"
+              "title": "机器学习 的大纲"
             }
           }
         ],
@@ -284,7 +285,17 @@
   },
   "active": "062d485e8d46ec64",
   "lastOpenFiles": [
+    "图片/Pasted image 20250826205921.png",
     "考研/算法笔记.md",
+    "考研/英语阅读复盘.md",
+    "考研/数学.md",
+    "考研/数学复盘.md",
+    "考研/contribution.md",
+    "力扣刷题/001-最大子数组和.md",
+    "力扣刷题/005-买卖股票的最佳时机.md",
+    "力扣刷题/006-两数之和.md",
+    "力扣刷题/007-最长连续序列.md",
+    "Day Planners/Day Planner-20250826.md",
     "Pasted image 20250825120318.png",
     "Pasted image 20250823161058.png",
     "Pasted image 20250816232312.png",
@@ -294,14 +305,9 @@
     "Day Planners/Day Planner-20250825.md",
     "图片/Pasted image 20250823100410.png",
     "图片/Pasted image 20250823091855.png",
-    "力扣刷题/007-最长连续序列.md",
     "Day Planners/Day Planner-20250823.md",
-    "力扣刷题/005-买卖股票的最佳时机.md",
-    "力扣刷题/006-两数之和.md",
     "图片/Pasted image 20250821230411.png",
     "图片/Pasted image 20250821221857.png",
-    "力扣刷题/001-最大子数组和.md",
-    "考研/contribution.md",
     "Day Planners/Day Planner-20250821.md",
     "Day Planners/Day Planner-20250820.md",
     "Day Planners/Day Planner-20250819.md",
@@ -312,13 +318,9 @@
     "Day Planners/Day Planner-20250817.md",
     "考研/机器学习.md",
     "Day Planners/Day Planner-20250816.md",
-    "考研/数学.md",
     "力扣刷题/004-无重复字符的最长子串.md",
     "Day Planners/Day Planner-20250815.md",
     "力扣刷题/003-最长公共子序列.md",
-    "考研/数学题型.md",
-    "考研/数学复盘.md",
-    "Day Planners/Day Planner-20250811.md",
     "附件4.docx",
     "python.docx",
     "PayGateWayLibrary/log",
