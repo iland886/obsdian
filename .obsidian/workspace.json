@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/机器学习.md",
+                "file": "考研/算法笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "机器学习"
+              "title": "算法笔记"
             }
           },
           {
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/机器学习.md",
+                "file": "考研/算法笔记.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "机器学习 的大纲"
+              "title": "算法笔记 的大纲"
             }
           }
         ],
@@ -285,8 +285,10 @@
   },
   "active": "062d485e8d46ec64",
   "lastOpenFiles": [
-    "图片/Pasted image 20250826205921.png",
+    "考研/机器学习.md",
     "考研/算法笔记.md",
+    "Day Planners/Day Planner-20250827.md",
+    "图片/Pasted image 20250826205921.png",
     "考研/英语阅读复盘.md",
     "考研/数学.md",
     "考研/数学复盘.md",
@@ -314,9 +316,7 @@
     "考研/概率论.md",
     "Day Planners/Day Planner-20250818.md",
     "图片/Pasted image 20250817164819.png",
-    "图片/Pasted image 20250817164805.png",
     "Day Planners/Day Planner-20250817.md",
-    "考研/机器学习.md",
     "Day Planners/Day Planner-20250816.md",
     "力扣刷题/004-无重复字符的最长子串.md",
     "Day Planners/Day Planner-20250815.md",
