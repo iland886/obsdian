@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/算法笔记.md",
+                "file": "考研/英语阅读复盘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "算法笔记"
+              "title": "英语阅读复盘"
             }
           },
           {
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/算法笔记.md",
+                "file": "考研/英语阅读复盘.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法笔记 的大纲"
+              "title": "英语阅读复盘 的大纲"
             }
           }
         ],
@@ -285,11 +285,23 @@
   },
   "active": "062d485e8d46ec64",
   "lastOpenFiles": [
-    "考研/机器学习.md",
+    "Day Planners/Day Planner-20250901.md",
+    "Day Planners/Day Planner-20250831.md",
+    "考研/线代题目.md",
+    "图片/Pasted image 20250830164417.png",
+    "图片/Pasted image 20250830161955.png",
     "考研/算法笔记.md",
+    "Day Planners/Day Planner-20250830.md",
+    "图片/Pasted image 20250829193034.png",
+    "图片/Pasted image 20250829192809.png",
+    "图片/Pasted image 20250829192427.png",
+    "图片/Pasted image 20250829191945.png",
+    "Day Planners/Day Planner-20250829.md",
+    "考研/机器学习.md",
+    "考研/英语阅读复盘.md",
+    "Day Planners/Day Planner-20250828.md",
     "Day Planners/Day Planner-20250827.md",
     "图片/Pasted image 20250826205921.png",
-    "考研/英语阅读复盘.md",
     "考研/数学.md",
     "考研/数学复盘.md",
     "考研/contribution.md",
@@ -301,26 +313,14 @@
     "Pasted image 20250825120318.png",
     "Pasted image 20250823161058.png",
     "Pasted image 20250816232312.png",
-    "图片/Pasted image 20250825113631.png",
     "力扣刷题/汇总.md",
     "考研/深度学习-李沐.md",
     "Day Planners/Day Planner-20250825.md",
-    "图片/Pasted image 20250823100410.png",
-    "图片/Pasted image 20250823091855.png",
     "Day Planners/Day Planner-20250823.md",
-    "图片/Pasted image 20250821230411.png",
-    "图片/Pasted image 20250821221857.png",
     "Day Planners/Day Planner-20250821.md",
     "Day Planners/Day Planner-20250820.md",
     "Day Planners/Day Planner-20250819.md",
     "考研/概率论.md",
-    "Day Planners/Day Planner-20250818.md",
-    "图片/Pasted image 20250817164819.png",
-    "Day Planners/Day Planner-20250817.md",
-    "Day Planners/Day Planner-20250816.md",
-    "力扣刷题/004-无重复字符的最长子串.md",
-    "Day Planners/Day Planner-20250815.md",
-    "力扣刷题/003-最长公共子序列.md",
     "附件4.docx",
     "python.docx",
     "PayGateWayLibrary/log",
