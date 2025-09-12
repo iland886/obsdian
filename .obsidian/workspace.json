@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/算法笔记.md",
+                "file": "考研/深度学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "算法笔记"
+              "title": "深度学习"
             }
           }
         ]
@@ -99,7 +99,7 @@
       {
         "id": "87ff31fe7597c24e",
         "type": "tabs",
-        "dimension": 38.00959232613909,
+        "dimension": 28.894173602853744,
         "children": [
           {
             "id": "7b76bbfc44797358",
@@ -117,13 +117,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/算法笔记.md",
+                "file": "考研/深度学习.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法笔记 的大纲"
+              "title": "深度学习 的大纲"
+            }
+          },
+          {
+            "id": "023308e857591608",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-chat-view"
             }
           }
         ],
@@ -132,7 +142,7 @@
       {
         "id": "ae47421fd5024790",
         "type": "tabs",
-        "dimension": 61.990407673860915,
+        "dimension": 71.10582639714626,
         "children": [
           {
             "id": "6315734bd18f9d7d",
@@ -193,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/算法笔记.md",
+                "file": "考研/深度学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +213,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "算法笔记 的反向链接列表"
+              "title": "深度学习 的反向链接列表"
             }
           },
           {
@@ -231,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,21 +265,27 @@
   },
   "active": "14d29d0277435fdf",
   "lastOpenFiles": [
+    "图片/Pasted image 20250912203203.png",
+    "图片/Pasted image 20250912203131.png",
+    "图片/Pasted image 20250912203128.png",
     "考研/深度学习.md",
-    "图片/e27c68ab87243742a96aeecaa1078690.png",
-    "考研/概率论.md",
-    "图片/ff0ccd44a190373bc6e0cae5d9f3e76e.png",
-    "Day Planners/Day Planner-20250911.md",
-    "图片/Pasted image 20250910211326.png",
-    "图片/Pasted image 20250910210821.png",
-    "图片/Pasted image 20250910205812.png",
-    "图片/Pasted image 20250910204459.png",
-    "图片/Pasted image 20250910203500.png",
-    "考研/机器学习.md",
-    "图片/Pasted image 20250910200631.png",
-    "图片/Pasted image 20250910200452.png",
-    "图片/Pasted image 20250910195835.png",
+    "考研/英语阅读复盘.md",
+    "考研/英语阅读方法.md",
+    "考研/深度学习.html",
     "考研/算法笔记.md",
+    "考研/数学题型.md",
+    "Day Planners/Day Planner-20250912.md",
+    "图片/Pasted image 20250911210051.png",
+    "图片/Pasted image 20250911204928.png",
+    "图片/Pasted image 20250911204541.png",
+    "图片/Pasted image 20250911204427.png",
+    "图片/Pasted image 20250911203706.png",
+    "图片/Pasted image 20250911202032.png",
+    "图片/Pasted image 20250911202028.png",
+    "图片/Pasted image 20250911201932.png",
+    "考研/概率论.md",
+    "Day Planners/Day Planner-20250911.md",
+    "考研/机器学习.md",
     "日记/2025-09-09.md",
     "考研/算法笔记（思维导图）.md",
     "考研/数学.md",
@@ -277,8 +293,6 @@
     "考研/规划.md",
     "未命名.canvas",
     "Day Planners/Day Planner-20250909.md",
-    "考研/英语阅读方法.md",
-    "考研/数学题型.md",
     "custom/virtual8/firm",
     "custom/virtual7/firm",
     "user/vendor/etc5/version",
@@ -288,19 +302,16 @@
     "custom/virtual5/firm",
     "custom/virtual4/firm",
     "custom/virtual3/firm",
-    "custom/virtual2/firm",
     "考研/数学复盘.md",
     "Day Planners/Day Planner-20250908.md",
     "Day Planners/Day Planner-20250904.md",
     "Day Planners/Day Planner-20250903.md",
     "考研/线代题目.md",
-    "考研/英语阅读复盘.md",
     "Day Planners/Day Planner-20250902.md",
     "Day Planners/Day Planner-20250901.md",
     "Day Planners/Day Planner-20250831.md",
     "Day Planners/Day Planner-20250830.md",
     "Day Planners/Day Planner-20250829.md",
-    "Day Planners/Day Planner-20250828.md",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
     "未命名 1.canvas",
     "未命名 3.canvas",
