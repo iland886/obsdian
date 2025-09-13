@@ -99,7 +99,7 @@
       {
         "id": "87ff31fe7597c24e",
         "type": "tabs",
-        "dimension": 28.894173602853744,
+        "dimension": 60.58041112454655,
         "children": [
           {
             "id": "7b76bbfc44797358",
@@ -142,7 +142,7 @@
       {
         "id": "ae47421fd5024790",
         "type": "tabs",
-        "dimension": 71.10582639714626,
+        "dimension": 39.41958887545345,
         "children": [
           {
             "id": "6315734bd18f9d7d",
@@ -263,8 +263,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "14d29d0277435fdf",
+  "active": "4a0c129cf1ea35bc",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20250913.md",
     "图片/Pasted image 20250912203203.png",
     "图片/Pasted image 20250912203131.png",
     "图片/Pasted image 20250912203128.png",
@@ -282,7 +283,6 @@
     "图片/Pasted image 20250911203706.png",
     "图片/Pasted image 20250911202032.png",
     "图片/Pasted image 20250911202028.png",
-    "图片/Pasted image 20250911201932.png",
     "考研/概率论.md",
     "Day Planners/Day Planner-20250911.md",
     "考研/机器学习.md",
