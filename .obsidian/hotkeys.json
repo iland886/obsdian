@@ -84,5 +84,13 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-markmind:Toggle to markdown or mindmap": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
