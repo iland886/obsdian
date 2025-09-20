@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/深度学习.md",
+                "file": "考研/算法笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "深度学习"
+              "title": "算法笔记"
             }
           }
         ]
@@ -117,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/深度学习.md",
+                "file": "考研/算法笔记.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "深度学习 的大纲"
+              "title": "算法笔记 的大纲"
             }
           },
           {
@@ -265,37 +265,42 @@
   },
   "active": "14d29d0277435fdf",
   "lastOpenFiles": [
+    "图片/ea235c217df51da979be8bd720cdaf68_720.png",
+    "图片/Pasted image 20250920195630.png",
+    "考研/数学真题.md",
+    "Day Planners/Day Planner-20250920.md",
+    "图片/Pasted image 20250918211150.png",
+    "考研/数学.md",
+    "考研/数学题型.md",
+    "考研/机器学习.md",
+    "考研/规划.md",
+    "考研/英语阅读复盘.md",
+    "考研/概率论.md",
+    "考研/线代题目.md",
+    "考研/contribution.md",
+    "考研/英语阅读方法.md",
+    "考研/深度学习.md",
+    "考研/算法笔记.md",
+    "Day Planners/Day Planner-20250918.md",
     "图片/Pasted image 20250917213632.png",
     "图片/Pasted image 20250917213207.png",
     "图片/认知天性：让学习轻而易举的心理学规律 (彼得．布朗 (Peter C. Brown) etc.) (Z-Library).pdf",
     "图片/Pasted image 20240125213109.png",
     "图片/Pasted image 20230902151722.png",
-    "考研/深度学习.md",
     "图片/Pasted image 20250917211915.png",
     "图片/Pasted image 20250917211052.png",
     "图片/Pasted image 20250917211048.png",
     "图片/Pasted image 20250917205131.png",
-    "图片/Pasted image 20250917195946.png",
-    "图片/Pasted image 20250917195735.png",
-    "图片/Pasted image 20250917194959.png",
     "Day Planners/Day Planner-20250917.md",
-    "考研/机器学习.md",
-    "考研/规划.md",
-    "考研/算法笔记.md",
     "Day Planners/Day Planner-20250916.md",
     "Day Planners/Day Planner-20250915.md",
     "Day Planners/Day Planner-20250914.md",
     "Day Planners/Day Planner-20250913.md",
-    "考研/英语阅读复盘.md",
-    "考研/英语阅读方法.md",
     "考研/深度学习.html",
-    "考研/数学题型.md",
     "Day Planners/Day Planner-20250912.md",
-    "考研/概率论.md",
     "Day Planners/Day Planner-20250911.md",
     "日记/2025-09-09.md",
     "考研/算法笔记（思维导图）.md",
-    "考研/数学.md",
     "Day Planners/Day Planner-20250910.md",
     "未命名.canvas",
     "Day Planners/Day Planner-20250909.md",
@@ -307,11 +312,6 @@
     "custom/virtual6/firm",
     "custom/virtual5/firm",
     "custom/virtual4/firm",
-    "考研/数学复盘.md",
-    "Day Planners/Day Planner-20250908.md",
-    "Day Planners/Day Planner-20250904.md",
-    "Day Planners/Day Planner-20250903.md",
-    "考研/线代题目.md",
     "以前的/学习/数学建模/笔记复盘/聚类模型.canvas",
     "未命名 1.canvas",
     "未命名 3.canvas",
