@@ -13,6 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "考研/机器学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "机器学习"
+            }
+          },
+          {
+            "id": "c838a02426cdf2e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "考研/算法笔记.md",
                 "mode": "source",
                 "source": false,
@@ -23,18 +38,15 @@
             }
           },
           {
-            "id": "c838a02426cdf2e3",
+            "id": "4dbdc1ec979ad9bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "考研/算法做题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.9.14"
               },
-              "icon": "lucide-file",
-              "title": "算法做题"
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
             }
           },
           {
@@ -147,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/算法笔记.md",
+                "file": "考研/机器学习.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法笔记 的大纲"
+              "title": "机器学习 的大纲"
             }
           },
           {
@@ -295,30 +307,34 @@
   },
   "active": "50c7a39b48548097",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20251006.md",
+    "Day Planners/Day Planner-20251004.md",
+    "Day Planners/Day Planner-20251003.md",
+    "考研/数学真题.md",
+    "考研/算法做题.md",
+    "考研/机器学习.md",
+    "考研/[算法做题.md",
+    "考研/算法笔记.md",
+    "Day Planners/Day Planner-20251002.md",
+    "Day Planners/Day Planner-20251001.md",
+    "图片/Pasted image 20250929211931.png",
+    "图片/Pasted image 20250929211921.png",
+    "图片/Pasted image 20250929211639.png",
+    "图片/Pasted image 20250929211602.png",
+    "图片/Pasted image 20250929210646.png",
+    "图片/497e7bc394792ee370d1358e82f87e28.png",
     "图片/a676c3a25c10c72e4ac9b8ee959f2023_720.png",
     "图片/977533e936f46ae7bcce600d69c851c6_720.png",
     "Day Planners/Day Planner-20250929.md",
-    "考研/算法做题.md",
     "Day Planners/Day Planner-20250928.md",
     "图片/Pasted image 20250925223614.png",
-    "考研/算法笔记.md",
     "考研/数学.md",
     "考研/数学题型.md",
     "图片/Pasted image 20250925212827.png",
-    "考研/[算法做题.md",
     "Day Planners/Day Planner-20250925.md",
-    "图片/Pasted image 20250924232332.png",
-    "图片/Pasted image 20250924230914.png",
-    "图片/8e4482d9d085b23be43997e99952066b_720 1.png",
-    "图片/8e4482d9d085b23be43997e99952066b_720.png",
     "Day Planners/Day Planner-20250924.md",
-    "图片/Pasted image 20250922225924.png",
-    "图片/Pasted image 20250922225919.png",
-    "图片/7bdbb24645199fcd6d7d63740d726e5f_720.png",
     "Day Planners/Day Planner-20250922.md",
-    "考研/数学真题.md",
     "Day Planners/Day Planner-20250920.md",
-    "考研/机器学习.md",
     "考研/规划.md",
     "考研/英语阅读复盘.md",
     "考研/概率论.md",
@@ -328,10 +344,6 @@
     "考研/深度学习.md",
     "Day Planners/Day Planner-20250918.md",
     "图片/认知天性：让学习轻而易举的心理学规律 (彼得．布朗 (Peter C. Brown) etc.) (Z-Library).pdf",
-    "Day Planners/Day Planner-20250917.md",
-    "Day Planners/Day Planner-20250916.md",
-    "Day Planners/Day Planner-20250915.md",
-    "Day Planners/Day Planner-20250914.md",
     "考研/深度学习.html",
     "未命名.canvas",
     "custom/virtual8/firm",
