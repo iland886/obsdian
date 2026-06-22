@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "系规/第四章.md",
+                "file": "Day Planners/Day Planner-20250810.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第四章"
+              "title": "Day Planner-20250810"
             }
           }
         ],
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "系规/第四章.md",
+                "file": "Day Planners/Day Planner-20250810.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第四章 的大纲"
+              "title": "Day Planner-20250810 的大纲"
             }
           },
           {
@@ -370,10 +370,19 @@
   },
   "active": "38c19c4dfa5842dd",
   "lastOpenFiles": [
+    "日记/， 2025-08-03.md",
+    "Day Planners/Day Planner-20250810.md",
+    "Day Planners/Day Planner-20250806.md",
+    "Day Planners/Day Planner-20250803.md",
+    "Day Planners/Day Planner-20250802.md",
+    "Day Planners/Day Planner-20250730.md",
+    "Day Planners/Day Planner-20250729.md",
+    "日记/2025-09-09.md",
+    "日记/2025-08-07.md",
+    "系规/第四章.md",
     "系规/第五章.md",
     "Day Planners/Day Planner-20260622.md",
     "Day Planners/Day Planner-20260621.md",
-    "系规/第四章.md",
     "Day Planners/Day Planner-20260620.md",
     "Day Planners/Day Planner-20260619.md",
     "Day Planners/Day Planner-20260618.md",
@@ -390,16 +399,7 @@
     "python学习/fastapi框架",
     "python学习",
     "Day Planners/Day Planner-20260525.md",
-    "books/01_快与慢/concepts/Untitled.md",
-    "books/01_快与慢/Thinking, Fast and Slow.md",
-    "Day Planners/Day Planner-20260502.md",
-    "Day Planners/Day Planner-20260427.md",
     "books/01_快与慢/思考,快与慢.pdf",
-    "template/01_Concept_Template.md",
-    "template/02_Book_Template.md",
-    "template/03_Decision_Log.md",
-    "template/04_Weekly_Review.md",
-    "template/05_Knowledge_Map.md",
     "图片/Pasted image 20250915210946.png",
     "books/01_快与慢/cases",
     "books/01_快与慢/concepts",
